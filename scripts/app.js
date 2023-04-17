@@ -9,9 +9,6 @@
 // Mostrar el resultado de los 3 arrays por consola y ademas indicar cuando se filtra la frase en que array se guardara y porque.
 // Adjuntar link al repo.
 
-// const frase = prompt('Por favor ingrese una frase...')
-const frase = "YENDO AL PARQUE. ASF";
-
 const frase1 = prompt("Ingrese la frase N°1");
 const frase2 = prompt("Ingrese la frase N°2");
 const frase3 = prompt("Ingrese la frase N°3");
